@@ -1,4 +1,4 @@
-# *BRANCHING WEBSITE TEST*
+# *Cookie Recipe*
 
 By Skylan Lew and Najma Abdi
 For learning the very basics of HTML for Epicodus
